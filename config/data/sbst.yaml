@@ -1,0 +1,12 @@
+# @package sbst
+## == Description ==
+#
+#
+#
+source_data_dir: /root/source/sbst
+index_name: sbst
+input_key: sentence
+num_perm: 128
+threshold: 0.7
+n_gram: 1
+

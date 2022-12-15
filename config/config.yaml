@@ -1,0 +1,9 @@
+defaults:
+  - _self_
+  - data:
+
+pretrained_model_name_or_path: EleutherAI/polyglot-ko-1.3b
+sep: " " # spliter for ngram
+data_dir: /root/besa
+seed: 21
+

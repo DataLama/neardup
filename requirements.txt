@@ -1,0 +1,7 @@
+transformers
+datasets
+datasketch
+redis
+kiwipiepy
+omegaconf
+hydra-core
